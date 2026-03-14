@@ -1,7 +1,7 @@
-# Hola, Soy Marco
+# Hola, Soy Marco 
 
-### Acerca de mi / About Me
-Soy **Estudiante de Programación**, principalmente enfocado en el desarrollo BackEnd. Apasionado por aprender nuevas tecnologías, el desarrollo de juegos y aplicaciones Homebrew así el funcionamiento del Hardware
+### Acerca de mí
+Soy **Estudiante de Programación**, principalmente enfocado en el desarrollo BackEnd. Apasionado por aprender nuevas tecnologías, el desarrollo de juegos, aplicaciones Homebrew y el funcionamiento del Hardware
 
 - Actualmente estoy trabajando en **Ports Para la NDSi**
 - Aprendiendo **a programar en Node.js, C/C++ y .NET**
@@ -12,15 +12,16 @@ Soy **Estudiante de Programación**, principalmente enfocado en el desarrollo Ba
 ### Principales Habilidades Tecnicas
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=java,nodejs,js,ts,react,nest,git,github,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,js,ts,html,css,react,nest,git,github,mysql,postgresql" />
 </p>
 
-###  - Otras -
+###  Otros...
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,unity,cs,postman,vscode,linux,debian,windows,apple" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,vscode,bootstrap,postman,linux,debian,windows,apple" />
 </p>
 
 ---
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taisford&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
