@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hola, Soy Marco / Hello there, I'm Marco
 
-<!--
-**taisford/taisford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Acerca de mi / About Me
+Soy Estudiante de Programacion, principalmente enfocado en el desarrollo BackEnd. Apasionado por aprender nuevas tecnologias e interesado por el desarrollo de juegos y aplicaciones Homebrew
 
-Here are some ideas to get you started:
+- 🔭 Actualmente trabajando en **Port de juegos Para NDSi y mejora de mi portafolio**
+- 🌱 Aprendiendo **a programar en Node.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Tecnologías y Herramientas
+
+### BackEnd
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=,js,ts,react,nodejs,git,mysql,linux" />
+</p>
+
+### OS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=,linux,windows,apple" />
+</p>
+
+---
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taisford&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisford&layout=compact&theme=radical"/>
+</p>
+### Alter
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=22002360&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisford&layout=compact&theme=radical"/>
+</p>
