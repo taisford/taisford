@@ -28,7 +28,7 @@ Soy **Estudiante de Programación**, principalmente enfocado en el desarrollo Ba
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisford&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="taisford's GitHub Stats" />
 </p>
 
-### Alter - @IDGS-801-22002360
+### Alter - <a href=https://github.com/IDGS-801-22002360>@IDGS-801-22002360</a>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IDGS-801-22002360&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="IDGS-801-22002360's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDGS-801-22002360&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="IDGS-801-22002360's GitHub Stats" />
