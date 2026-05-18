@@ -5,7 +5,7 @@ Soy **Estudiante de Programación**, principalmente enfocado en el desarrollo Ba
 
 - Actualmente estoy trabajando en **Ports Para la NDSi**
 - Aprendiendo **a programar en Node.js, C/C++ y .NET**
-- Interesado en **aprender y mejorar mis conocimientos en Linux**
+- Interesado en **ampliar mis conocimientos en Linux**
 
 ---
 
