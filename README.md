@@ -5,7 +5,8 @@ Soy **Estudiante de Programación**, principalmente enfocado en el desarrollo Ba
 
 mis pasatiempos favorito son leer, escuchar musica, programar cosas sencillas y de vez en cuando dibujar
 
-- Actualmente estoy trabajando en **Ports Para la NDSi**
+### Actualmente estoy 
+- Trabajando en **Ports Para la NDSi**
 - Aprendiendo **a programar en Node.js, C/C++ y .NET**
 - Aprendiendo **a programar en el motor Godot**
 - Interesado en **ampliar mis conocimientos en Linux**
