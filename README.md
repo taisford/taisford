@@ -1,10 +1,13 @@
 # Hola, Soy Marco 
 
 ### Acerca de mí
-Soy **Estudiante de Programación**, principalmente enfocado en el desarrollo BackEnd. Apasionado por aprender nuevas tecnologías, el desarrollo de juegos, aplicaciones Homebrew y el funcionamiento del Hardware
+Soy **Estudiante de Programación**, principalmente enfocado en el desarrollo BackEnd. Apasionado por aprender nuevas tecnologías, el desarrollo de videojuegos, aplicaciones Homebrew y el funcionamiento del Hardware
+
+mis pasatiempos favorito son leer, escuchar musica, programar cosas sencillas y de vez en cuando dibujar
 
 - Actualmente estoy trabajando en **Ports Para la NDSi**
 - Aprendiendo **a programar en Node.js, C/C++ y .NET**
+- Aprendiendo **a programar en el motor Godot**
 - Interesado en **ampliar mis conocimientos en Linux**
 
 ---
