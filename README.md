@@ -26,14 +26,12 @@ mis pasatiempos favorito son leer, escuchar musica, programar cosas sencillas y 
 
 ---
 
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taisford&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="taisford's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisford&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="taisford's GitHub Stats" />
+<a  href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=Pixelify%20Sans&preferLogin=true&Points.Commits=48&Points.ContributedToNotOwnerRepositories=4&Points.CreatedRepositories=10&Points.DirectStars=1&Ring=DD6A23">    <img  alt="taisford's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/taisford?cardType=level&theme=github-dark&fontFamily=Pixelify%20Sans&preferLogin=true&Points.Commits=48&Points.ContributedToNotOwnerRepositories=4&Points.CreatedRepositories=10&Points.DirectStars=1&Ring=DD6A23" />  </a>  
 </p>
 
+  
 ### Alter - <a href=https://github.com/IDGS-801-22002360>@IDGS-801-22002360</a>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IDGS-801-22002360&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="IDGS-801-22002360's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDGS-801-22002360&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="IDGS-801-22002360's GitHub Stats" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=Pixelify%20Sans&preferLogin=true&Points.ContributedToNotOwnerRepositories=4&Points.ContributedToOwnRepositories=220&Points.CreatedRepositories=10&Points.DirectStars=2&Points.Issues=4&Points.PullRequests=13&Points.ContributedTo=25&Ring=DD6A23">    <img  alt="IDGS-801-22002360's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/IDGS-801-22002360?cardType=level&theme=github-dark&fontFamily=Pixelify%20Sans&preferLogin=true&Points.ContributedToNotOwnerRepositories=4&Points.ContributedToOwnRepositories=220&Points.CreatedRepositories=10&Points.DirectStars=2&Points.Issues=4&Points.PullRequests=13&Points.ContributedTo=25&Ring=DD6A23" />  </a>
 </p>
